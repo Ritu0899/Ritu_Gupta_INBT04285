@@ -12,4 +12,5 @@ https://ritu-gupta-portfolio-website.netlify.app
 https://ritu-gupta-randomgifstarter.netlify.app
 
 
- 
+# #MAJOR PROJECT 
+https://ritu-gupta-e-commerce-website.netlify.app
