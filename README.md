@@ -8,5 +8,8 @@ Task 1 - portfolio Task 2 - random gif generator, Major Project - E-Commerce-web
 # #task1
 https://ritu-gupta-portfolio-website.netlify.app
 
+# #task2
+https://ritu-gupta-randomgifstarter.netlify.app
+
 
  
