@@ -5,7 +5,8 @@ Welcome to the RituGupta_INBT04285_August2023 project, a comprehensive collectio
  # #Table of Contents
 Task 1 - portfolio Task 2 - random gif generator, Major Project - E-Commerce-website
 
-
+# #task1
+https://ritu-gupta-portfolio-website.netlify.app
 
 
  
